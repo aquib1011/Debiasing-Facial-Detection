@@ -23,6 +23,7 @@ As we can see that the our model is less biased in DB-VAE.
 
 ## Dataset
 positive image http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+
 Negative image http://www.image-net.org/
 
 ## Refrences

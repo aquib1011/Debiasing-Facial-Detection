@@ -33,6 +33,8 @@ https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f7051
 
 https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/
 
+https://www.tensorflow.org/api_docs/python
+
 © MIT 6.S191: Introduction to Deep Learning
 http://introtodeeplearning.com
 

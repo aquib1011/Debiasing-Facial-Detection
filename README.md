@@ -27,7 +27,9 @@ Negative image http://www.image-net.org/
 
 ## Refrences
 http://introtodeeplearning.com/AAAI_MitigatingAlgorithmicBias.pdf
+
 https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73
+
 © MIT 6.S191: Introduction to Deep Learning
 http://introtodeeplearning.com
 
